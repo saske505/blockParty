@@ -2,6 +2,7 @@
 a block chain trade app
 
 The app is built in meteor
+
 for Windows users
 `choco install meteor`
 
